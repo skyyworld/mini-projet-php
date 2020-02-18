@@ -1,5 +1,5 @@
 <?php
-	$titre = 'Accueil';	
+	$titre = "Bienvenue sur l'accueil";	
 	require_once('./includes/header.php');
 ?>
 	<main>
